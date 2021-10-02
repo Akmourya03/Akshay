@@ -31,5 +31,6 @@ Hi 👋 I'm Akshay Kumar Mourya TINT AI&ML 1st year.
 1.|HTML|
 2.|C|
 
+<img src= "download.jpeg">
 
 
